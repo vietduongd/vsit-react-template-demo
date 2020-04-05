@@ -1,0 +1,14 @@
+{
+    "translations": {
+        "Hello": "Chào bạn",
+        "wait": "Vui lòng chờ đợi trong giây lát nhé...",
+        "i18n": "Đây là I18n"
+    },
+    "spinner": {
+        "wait": "Vui lòng chờ đợi trong giây lát ..."
+    },
+    "errorPage": {
+        "notfound": "Trang của bạn không tìm thấy",
+        "forbidden": "Bạn không có quyền truy cập trang này."
+    }
+}

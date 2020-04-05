@@ -1,0 +1,10 @@
+{
+    "translations": {
+        "Hello": "Chào bạn",
+        "wait": "Vui lòng chờ đợi trong giây lát nhé...",
+        "i18n": "Đây là I18n"
+    },
+    "spinner": {
+        "wait": "Waiting ..."
+    }
+}
